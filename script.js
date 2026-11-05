@@ -113,7 +113,7 @@ function initTerminal() {
     contact: `[SALURAN KOMUNIKASI]
   • Email    : rezariski42@gmail.com
   • WhatsApp : +62 851 1718 1529
-  • LinkedIn : https://linkedin.com/in/rezariski
+  • LinkedIn : https://id.linkedin.com/in/muhammad-yusuf-reyzha-rizky-alatas-account-executive-my-republic-5777aa157
   • GitHub   : https://github.com/rezariski
   • Domisili : Jember, Jawa Timur, Indonesia`,
 
